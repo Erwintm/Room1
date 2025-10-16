@@ -35,7 +35,7 @@ import java.io.IOException
 
 @RunWith(AndroidJUnit4::class)
 class ItemDaoTest {
-
+//ya casi
     private lateinit var itemDao: ItemDao
     private lateinit var inventoryDatabase: InventoryDatabase
     private val item1 = Item(1, "Apples", 10.0, 20)
